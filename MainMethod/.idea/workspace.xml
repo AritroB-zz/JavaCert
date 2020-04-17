@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd80d845-0219-4959-a82c-25eb52b871d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/learn/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Main.java" beforeDir="false" />
+    <list default="true" id="bd80d845-0219-4959-a82c-25eb52b871d5" name="Default Changelist" comment="Messed around with Arguments in Main.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +87,28 @@
       <option name="presentableId" value="Default" />
       <updated>1587003295499</updated>
     </task>
+    <task id="LOCAL-00001" summary="Arguments in Main.java">
+      <created>1587004038936</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587004038936</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Arguments in Main.java">
+      <created>1587004129157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587004129157</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Messed around with Arguments in Main.java">
+      <created>1587004188936</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587004188936</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,27 +121,50 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Arguments in Main.java" />
+    <MESSAGE value="Messed around with Arguments in Main.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Messed around with Arguments in Main.java" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587003876266">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120/1792.0.1920.1200@0.0.1792.1120" timestamp="1587003876266" />
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1587003788951">
+    <state width="1878" height="318" key="GridCell.Tab.0.bottom" timestamp="1587043896674">
+      <screen x="1792" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.0.1920.1200@0.0.1792.1120" timestamp="1587003921039" />
+    <state width="1878" height="318" key="GridCell.Tab.0.bottom/0.23.1792.1097/1792.0.1920.1200@1792.0.1920.1200" timestamp="1587043896674" />
+    <state width="1878" height="318" key="GridCell.Tab.0.center" timestamp="1587043896673">
+      <screen x="1792" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120/1792.0.1920.1200@0.0.1792.1120" timestamp="1587003921037" />
+    <state width="1878" height="318" key="GridCell.Tab.0.center/0.23.1792.1097/1792.0.1920.1200@1792.0.1920.1200" timestamp="1587043896673" />
+    <state width="1878" height="318" key="GridCell.Tab.0.left" timestamp="1587043896672">
+      <screen x="1792" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120/1792.0.1920.1200@0.0.1792.1120" timestamp="1587003921036" />
+    <state width="1878" height="318" key="GridCell.Tab.0.left/0.23.1792.1097/1792.0.1920.1200@1792.0.1920.1200" timestamp="1587043896672" />
+    <state width="1878" height="318" key="GridCell.Tab.0.right" timestamp="1587043896673">
+      <screen x="1792" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120/1792.0.1920.1200@0.0.1792.1120" timestamp="1587003921038" />
+    <state width="1878" height="318" key="GridCell.Tab.0.right/0.23.1792.1097/1792.0.1920.1200@1792.0.1920.1200" timestamp="1587043896673" />
+    <state x="2352" y="340" key="Vcs.Push.Dialog.v2" timestamp="1587004195826">
+      <screen x="1792" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2352" y="340" key="Vcs.Push.Dialog.v2/0.0.1792.1120/1792.0.1920.1200@1792.0.1920.1200" timestamp="1587004195826" />
+    <state x="684" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587004092435">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.0.1920.1200@0.0.1792.1120" timestamp="1587003788951" />
-    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1587003788949">
+    <state x="684" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120/1792.0.1920.1200@0.0.1792.1120" timestamp="1587004092435" />
+    <state x="684" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120/1792.23.1920.1177@0.0.1792.1120" timestamp="1587004058170" />
+    <state x="264" y="182" key="new project wizard" timestamp="1587166742850">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120/1792.0.1920.1200@0.0.1792.1120" timestamp="1587003788949" />
-    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1587003788947">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120/1792.0.1920.1200@0.0.1792.1120" timestamp="1587003788947" />
-    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1587003788950">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120/1792.0.1920.1200@0.0.1792.1120" timestamp="1587003788950" />
+    <state x="264" y="182" key="new project wizard/0.0.1792.1120/1792.23.1920.1177@0.0.1792.1120" timestamp="1587166742850" />
   </component>
 </project>
