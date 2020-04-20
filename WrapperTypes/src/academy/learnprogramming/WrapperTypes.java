@@ -2,6 +2,7 @@ package academy.learnprogramming;
 
 public class WrapperTypes {
 
+    private static String brand;
     public static void main(String[] args) {
         int myInt = 10;
         Integer myInteger = 10;
@@ -27,6 +28,8 @@ public class WrapperTypes {
 
         printSum(1, 5); // autoboxing
         printSum(myInteger, myInteger2);
+
+        System.out.println("Brand = " + brand);
 
     }
 
